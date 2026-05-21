@@ -38,5 +38,4 @@ I'm a developer with a background in Web development, now diving deep into the w
 ### 📊 GitHub Stats
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Ferr&theme=dark&hide_border=false" alt="Bruno's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Ferr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Bruno's Top Languages" />
 </div>
