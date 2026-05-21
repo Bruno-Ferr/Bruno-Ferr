@@ -7,7 +7,7 @@ I'm a developer with a background in Web development, now diving deep into the w
 ---
 
 ### 👨‍💻 About Me
-- 🔭 **Currently working on:** Predictive Maintenance Sensor Hub
+- 🔭 **Currently working on:** Adaptive flashcard system
 - 🌱 **Currently learning:** PyTorch, TensorFlow, MLOps, and advanced neural networks.
 - 👯 **Looking to collaborate on:** Open-source AI projects and data-driven web apps.
 - 📫 **Reach me at:**
