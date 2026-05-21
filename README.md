@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Ferreira</h1>
 
-### 🧠 Software Engineer | Machine Learning & AI Enthusiast
+### Software Engineer | Machine Learning & AI Enthusiast
 
 I'm a developer with a background in Web development, now diving deep into the world of **Machine Learning, Deep Learning, and Data Science**. I love bridging the gap between complex data models and highly functional, intelligent applications.
 
