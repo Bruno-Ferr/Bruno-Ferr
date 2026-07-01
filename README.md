@@ -1,41 +1,41 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Ferreira</h1>
+# Hi, I'm Bruno Ferreira
 
-### Software Engineer | Machine Learning & AI Enthusiast
+**Full Stack Developer (4+ yrs) → transitioning to ML/AI Engineering**
 
-I'm a developer with a background in Web development, now diving deep into the world of **Machine Learning, Deep Learning, and Data Science**. I love bridging the gap between complex data models and highly functional, intelligent applications.
+I build production web systems with JavaScript/React/Node/AWS, and I'm now applying that same engineering rigor to machine learning — currently completing a postgraduate program in ML at FIAP, with certifications from AWS, Google, and Alura.
 
----
+I'm not doing ML for the resume line. I care about the *why* behind a model choice as much as the result — you'll see that reflected in the projects below.
 
-### 👨‍💻 About Me
-- 🔭 **Currently working on:** Adaptive flashcard system
-- 🌱 **Currently learning:** PyTorch, TensorFlow, MLOps, and advanced neural networks.
-- 👯 **Looking to collaborate on:** Open-source AI projects and data-driven web apps.
-- 📫 **Reach me at:**
-  <br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ferreira-346446196)
-  [![Gmail](https://img.shields.io/badge/-fbruno233@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fbruno233@gmail.com)](mailto:fbruno233@gmail.com)
+📍 Based in Brazil, open to remote roles (US/EU)
+📫 [fbruno233@gmail.com] · [https://www.linkedin.com/in/bferreira-dev]
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🔭 Featured ML Projects
 
-**Languages & Frameworks**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-**Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-**Cloud & DevOps (MLOps)**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### [Adaptive Flashcard System](https://github.com/Bruno-Ferr/adpt-flashcards)
+A spaced-repetition system for German vocabulary that learns *when* I'm likely to forget a card, not just a fixed interval.
+- Modeled recall probability with **logistic regression**, then moved to **XGBoost** for better performance, using **SHAP** to interpret which features (time since review, past accuracy, card difficulty) actually drive forgetting
+- Built an **ε-greedy scheduler** to balance reviewing cards I'm about to forget vs. exploring under-reviewed ones
+- SQLite for review history storage; the whole loop runs on my real study data, not a toy dataset
+- **Stack:** Python, scikit-learn, XGBoost, SHAP, SQLite
 
 ---
 
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Ferr&theme=dark&hide_border=false" alt="Bruno's Streak" />
-</div>
+## 🛠️ Full Stack & Cloud
+
+Production experience across the stack that most of my ML work now builds on top of:
+- **Frontend:** React, Angular, JavaScript/TypeScript
+- **Backend:** Node.js, Nest, REST APIs
+- **Cloud:** AWS (EC2, EKS, ECS, End User Messaging / WhatsApp integrations, SQS), currently studying for **AWS SAA-C03**
+- **DevOps:** Docker, CI/CD basics
+
+## 🌱 Currently Learning
+
+- Advanced ML/DL coursework (FIAP postgrad)
+- AWS Solutions Architect Associate (SAA-C03)
+- German (A2→B1) — also the domain for the flashcard project above
+
+---
+
+*Open to Software Development and ML/AI Engineering roles. If you're working on something interesting in either space, feel free to reach out.*
